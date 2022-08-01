@@ -1,2 +1,2 @@
-export const APIURL = "http://localhost:3000";
-export const FRONTEND_API = "http://localhost:3001/api";
+export const APIURL = "https://moolre.herokuapp.com/api";
+export const FRONTEND_API = "https://moolre.vercel.app";
